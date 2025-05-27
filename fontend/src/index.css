@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "@fontsource/rajdhani"; /* Defaults to 400 */
+@import "@fontsource/rajdhani/700.css"; /* Optional: for bold */
+
+
+body {
+  background-color: #000300;
+}
