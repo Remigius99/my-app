@@ -83,10 +83,10 @@ WSGI_APPLICATION = 'kattle.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sql8687256',
-        'USER': 'sql8687256',
-        'PASSWORD': 'mypassword123',
-        'HOST': 'sql8.freesqldatabase.com',
+        'NAME': 'sql3781483',
+        'USER': 'sql3781483',
+        'PASSWORD': 'Fyn7MePh5x',
+        'HOST': 'sql3.freesqldatabase.com',
         'PORT': '3306',
     }
 }
